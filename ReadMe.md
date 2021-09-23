@@ -15,7 +15,7 @@
 
 ### Live Demo
 
-[https://praveenoruganti-custom-swagger-ui.herokuapp.com/](https://praveenoruganti-custom-swagger-ui.herokuapp.com/)
+[https://praveen-custom-swagger-ui.herokuapp.com/](https://praveen-custom-swagger-ui.herokuapp.com/)
 
 ### Setup Local Instructions
 
